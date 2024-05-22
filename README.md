@@ -1,4 +1,4 @@
-# Series Queues with infinite capacity - Open Jackson Network
+# EXP-6 Series Queues with infinite capacity - Open Jackson Network
 # Developed by:Kailash Kumar S
 # Register number: 212223220041
 ## Aim :
